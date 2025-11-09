@@ -1,5 +1,5 @@
 # Lime_Robot：HITSZ大一立项上位机系统功能介绍
-
+🎥 视频展示：https://www.bilibili.com/video/BV1XvP1enEwY/?spm_id_from=333.1387.upload.video_card.click&vd_source=82180d209e7b25f0d6bbde3e395424e4
 ## 核心功能概述
 Lime_Robot上位机系统是针对室内移动机器人开发的综合控制平台，基于ROS 2框架构建，实现了室内建图导航、语音交互、视觉识别与机械臂协同抓取等核心功能，通过多模块协同工作完成复杂任务流程。
 
